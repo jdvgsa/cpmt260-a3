@@ -1,5 +1,5 @@
 body {
-  
+
   line-height: 1.35;
   margin: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -131,10 +131,11 @@ a:hover {
 
   nav ul {
     display:block;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(4) 2fr;
     text-align: center;
     
-  }}
+    }
+  }
 
 @media (width < 40rem) {
 
