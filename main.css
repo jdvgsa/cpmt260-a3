@@ -131,8 +131,8 @@ a:hover {
 
   nav ul {
     display:block;
-    grid-template-columns: repeat(4) 2fr;
     text-align: center;
+    margin: auto;
     
     }
   }
@@ -141,7 +141,7 @@ a:hover {
 
   main {
     display: flex;
-    font-size: .75rem;
+    font-size: 1rem;
     margin:auto;
     line-height: 1.25;
     justify-content: center;
