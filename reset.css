@@ -1,0 +1,7 @@
+body, h1, h2, p, ul, li {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: grey;
+
+  margin: none;
+  padding: none;
+}
