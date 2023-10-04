@@ -67,7 +67,8 @@ nav ul {
 }
 
 nav a {
-
+  
+  background-color: rgba(50, 165, 219, 0.5);
   text-decoration: none;
   color: antiquewhite;
   padding: 0;
@@ -76,7 +77,7 @@ nav a {
 
 nav a:hover {
 
-  background-color: transparent;
+  background-color: whitesmoke;
   color: rebeccapurple;
 
 }
